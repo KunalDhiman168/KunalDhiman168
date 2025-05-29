@@ -16,8 +16,8 @@ Frameworks/Tools -> Arduino IDE , TinkerCAD ,KiCAD
 Similation Softwares -> MATLAB, LTSpice  
 
 🖇️ Connect With Me  
-[INSTAGRAM](https://instagram.com/__kunal_dhiman__)  
-[LINKEDIN](https://linkedin.com/in/kunal-dhiman-661541293)  
+📞 [INSTAGRAM](https://instagram.com/__kunal_dhiman__)  
+📞 [LINKEDIN](https://linkedin.com/in/kunal-dhiman-661541293)  
 
 🎯 Thanks For Visiting! Let’s Build Something Amazing Together.
 
