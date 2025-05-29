@@ -10,6 +10,14 @@ Beyond Academics, I am a dedicated Fitness enthusiast who believes in pushing bo
 --> Starting a research intern at IIT ROORKEE 🏫
 --> Chasing those Fitness Gains
 
+👾 Tech Stack
+Programming -> C,C++,Python,Verilog 
+Frameworks/Tools -> Arduino IDE , TinkerCAD ,KiCAD
+Similation Softwares -> MATLAB, LTSpice
+
+🖇️ Comnect With Me
+
+
 
 
 
