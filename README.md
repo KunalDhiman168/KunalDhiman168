@@ -15,7 +15,7 @@ Programming -> C,C++,Python,Verilog
 Frameworks/Tools -> Arduino IDE , TinkerCAD ,KiCAD
 Similation Softwares -> MATLAB, LTSpice
 
-🖇️ Comnect With Me
+🖇️ Connect With Me
 [INSTAGRAM](https://instagram.com/__kunal_dhiman__)
 [LINKEDIN](https://linkedin.com/in/kunal-dhiman-661541293)
 
