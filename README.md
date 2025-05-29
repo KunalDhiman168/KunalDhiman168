@@ -5,6 +5,10 @@ As an aspiring engineer fascinated by electronics and robotics, I'm driven by my
 
 Beyond Academics, I am a dedicated Fitness enthusiast who believes in pushing both physical and mental limits and focuses on self development.
 
+🛑 Ongoing Development 
+--> Exploring Verilog HDL and Computer architecture 
+--> Starting a research intern at IIT ROORKEE 🏫
+--> Chasing those Fitness Gains
 
 
 
