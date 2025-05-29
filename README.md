@@ -5,19 +5,19 @@ As an aspiring engineer fascinated by electronics and robotics, I'm driven by my
 
 Beyond Academics, I am a dedicated Fitness enthusiast who believes in pushing both physical and mental limits and focuses on self development.
 
-🛑 Ongoing Development 
---> Exploring Verilog HDL and Computer architecture 
---> Starting a research intern at IIT ROORKEE 🏫
---> Chasing those Fitness Gains
+🛑 Ongoing Development   
+--> Exploring Verilog HDL and Computer architecture   
+--> Starting a research intern at IIT ROORKEE 🏫  
+--> Chasing those Fitness Gains  
 
-👾 Tech Stack
-Programming -> C,C++,Python,Verilog 
-Frameworks/Tools -> Arduino IDE , TinkerCAD ,KiCAD
-Similation Softwares -> MATLAB, LTSpice
+👾 Tech Stack  
+Programming -> C,C++,Python,Verilog   
+Frameworks/Tools -> Arduino IDE , TinkerCAD ,KiCAD  
+Similation Softwares -> MATLAB, LTSpice  
 
-🖇️ Connect With Me
-[INSTAGRAM](https://instagram.com/__kunal_dhiman__)
-[LINKEDIN](https://linkedin.com/in/kunal-dhiman-661541293)
+🖇️ Connect With Me  
+[INSTAGRAM](https://instagram.com/__kunal_dhiman__)  
+[LINKEDIN](https://linkedin.com/in/kunal-dhiman-661541293)  
 
 🎯 Thanks For Visiting! Let’s Build Something Amazing Together.
 
