@@ -16,7 +16,7 @@ Beyond Academics, I am a dedicated Fitness enthusiast who believes in pushing bo
 👾 **Tech Stack**  
 Programming -> C/C++, Python, Verilog, HTML, CSS, JS   
 Frameworks/Tools -> Arduino IDE , TinkerCAD ,KiCAD  
-Developer Tools -> VS Code, GitHub
+Developer Tools -> VS Code, GitHub <br>
 Similation Softwares -> MATLAB, LTSpice, QUCS, Cadence
 
 🖇️ **Connect With Me**  
