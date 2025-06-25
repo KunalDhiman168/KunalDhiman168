@@ -7,7 +7,7 @@ Beyond Academics, I am a dedicated Fitness enthusiast who believes in pushing bo
 
 🛑 **Ongoing Development**   
 --> Exploring **Verilog HDL** and **Finance**   
---> Exploring the Feild of **Web Deveopement**
+--> Exploring the Feild of **Web Deveopement** <br>
 --> Ongoing research intern at **IIT ROORKEE** 🏫  
 --> Ongoing **BYTE** (Build Your Technical Edge) Program @ **Texas Instrument** <br>
 --> **Fitness Enthusuiast**, dedicated to strength training and endurance. <br>
